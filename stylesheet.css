@@ -1,0 +1,39 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    z-index: -1;
+}
+
+
+#vcard{
+    background-color: black;
+    color: aliceblue;
+    margin: auto;
+    width: 30%;
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    box-shadow: 0 4px 50px 0 rgba(5, 255, 34, 0.5), 4px 0px 50px 0 rgba(43, 0, 255, 0.5);
+}
+
+#myname{
+text-align: center;
+}
+
+#icontray{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 30px;
+   
+}
+
+.trayicon{
+    color: aliceblue;
+}
+
+
